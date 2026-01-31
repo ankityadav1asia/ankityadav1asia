@@ -10,7 +10,7 @@ I don’t just code — I ship products.
 
 ## 🧠 What I’m into
 - 🤖 AI-powered Web Apps  
-- 🌐 Full Stack (Next.js, React, Node)  
+- 🌐 Full Stack (Next.js, React, Node.js)  
 - 🔍 Data, APIs & Automation  
 - 🛡️ Security, Privacy & Compliance  
 - 🚀 Startup-style product building  
