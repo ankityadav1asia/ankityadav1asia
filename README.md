@@ -56,7 +56,7 @@ I don’t just code — I ship products.
 
 ## 📈 GitHub Stats
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankityadav1asiaE&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -69,7 +69,7 @@ I don’t just code — I ship products.
 
 ## 📫 Connect with me
 - 🌐 Portfolio: https://ankitss.vercel.app  
-- 💼 LinkedIn: https://linkedin.com/in/YOURNAME  
+- 💼 LinkedIn: https://linkedin.com/in/ankityadav1asia  
 
 ---
 
