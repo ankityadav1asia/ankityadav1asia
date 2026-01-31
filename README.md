@@ -18,7 +18,6 @@ I don’t just code — I ship products.
 ---
 
 ## 🛠️ Tech Stack
-## 🛠️ My Tech Toolbox
 
 ### 🌐 Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white) ⚡  
@@ -73,12 +72,6 @@ I don’t just code — I ship products.
 | **WireCode** | Upload UI wireframe → AI generates frontend code |
 | **Vewaste** | Smart waste management platform |
 | **AI Resume Analyzer** | AI scores resumes & gives improvement tips |
-
----
-
-## 📈 GitHub Stats
-
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankityadav1asiaE&show_icons=true&theme=tokyonight)
 
 ---
 
