@@ -63,13 +63,13 @@ I don’t just code — I ship products.
 | Project | What it does |
 |-------|--------------|
 | **SafeReport** | Upload a crime image → AI detects incident → generates tracking code |
-| **WireCode** | Upload UI wireframe → AI generates frontend code |
 | **Vewaste** | Smart waste management platform |
-| **AI Resume Analyzer** | AI scores resumes & gives improvement tips |
+
 
 ---
 
 ## 🧠 Currently Learning
+- Crypto
 - Advanced TypeScript  
 - System Design  
 - AI Agents & RAG pipelines  
@@ -80,6 +80,5 @@ I don’t just code — I ship products.
 - 🌐 Portfolio: https://ankitss.vercel.app  
 - 💼 LinkedIn: https://linkedin.com/in/ankityadav1asia  
 
----
 
-🔥 *“I don’t wait for opportunities. I build them.”*
+
