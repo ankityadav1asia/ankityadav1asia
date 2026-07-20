@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Ankit (aka Maverick)</h1>
+<h1 align="center">Hey 👋 I'm Ankit </h1>
 <h3 align="center">AI-Powered Full Stack Developer | MSc CS @ Mumbai</h3>
 
 ---
